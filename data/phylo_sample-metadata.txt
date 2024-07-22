@@ -1,0 +1,176 @@
+#NAME	year	sample_dna	soil_type	sampling_site	season	soil_depth	soil_depth_num	sampling_site_depth	soil_depth_two	rhizosphere	rhizosphere_type	rhizosphere_type_seasons
+515rcbc1	2019	1	Chern_taiga	N1	Summer	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+515rcbc2	2019	2	Chern_taiga	N1	Summer	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+515rcbc3	2019	3	Chern_taiga	N1	Summer	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+515rcbc4	2019	4	Chern_taiga	N1	Summer	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+515rcbc5	2019	5	Chern_taiga	N1	Summer	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+515rcbc6	2019	16	Chern_taiga	N1	Summer	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+515rcbc7	2019	17	Chern_taiga	N1	Summer	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+515rcbc8	2019	18	Chern_taiga	N1	Summer	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+515rcbc9	2019	19	Chern_taiga	N1	Summer	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+515rcbc10	2019	20	Chern_taiga	N1	Summer	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+515rcbc11	2019	21	Chern_taiga	N1	Summer	20-30	30	N1-30+	bottom	soil	N1_soil	N1_soil
+515rcbc12	2019	22	Chern_taiga	N1	Summer	20-30	30	N1-30+	bottom	soil	N1_soil	N1_soil
+515rcbc13	2019	23	Chern_taiga	N1	Summer	20-30	30	N1-30+	bottom	soil	N1_soil	N1_soil
+515rcbc14	2019	24	Chern_taiga	N1	Summer	20-30	30	N1-30+	bottom	soil	N1_soil	N1_soil
+515rcbc15	2019	25	Chern_taiga	N1	Summer	20-30	30	N1-30+	bottom	soil	N1_soil	N1_soil
+515rcbc16	2019	26	Chern_taiga	N1	Summer	40-50	50	N1-30+	bottom	soil	N1_soil	N1_soil
+515rcbc17	2019	27	Chern_taiga	N1	Summer	40-50	50	N1-30+	bottom	soil	N1_soil	N1_soil
+515rcbc18	2019	28	Chern_taiga	N1	Summer	40-50	50	N1-30+	bottom	soil	N1_soil	N1_soil
+515rcbc19	2019	29	Chern_taiga	N1	Summer	40-50	50	N1-30+	bottom	soil	N1_soil	N1_soil
+515rcbc20	2019	30	Chern_taiga	N1	Summer	40-50	50	N1-30+	bottom	soil	N1_soil	N1_soil
+515rcbc21	2019	51	Control	N2	Summer	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+515rcbc22	2019	52	Control	N2	Summer	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+515rcbc23	2019	53	Control	N2	Summer	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+515rcbc24	2019	54	Control	N2	Summer	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+515rcbc25	2019	55	Control	N2	Summer	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+515rcbc26	2019	66	Control	N2	Summer	2-10	10	N2-top	top	soil	N2_soil	N2_soil
+515rcbc27	2019	67	Control	N2	Summer	2-10	10	N2-top	top	soil	N2_soil	N2_soil
+515rcbc28	2019	68	Control	N2	Summer	2-10	10	N2-top	top	soil	N2_soil	N2_soil
+515rcbc29	2019	69	Control	N2	Summer	2-10	10	N2-top	top	soil	N2_soil	N2_soil
+515rcbc30	2019	70	Control	N2	Summer	2-10	10	N2-top	top	soil	N2_soil	N2_soil
+515rcbc31	2019	71	Control	N2	Summer	20-30	30	N2-30+	bottom	soil	N2_soil	N2_soil
+515rcbc32	2019	72	Control	N2	Summer	20-30	30	N2-30+	bottom	soil	N2_soil	N2_soil
+515rcbc33	2019	73	Control	N2	Summer	20-30	30	N2-30+	bottom	soil	N2_soil	N2_soil
+515rcbc34	2019	74	Control	N2	Summer	20-30	30	N2-30+	bottom	soil	N2_soil	N2_soil
+515rcbc35	2019	75	Control	N2	Summer	20-30	30	N2-30+	bottom	soil	N2_soil	N2_soil
+515rcbc36	2019	76	Control	N2	Summer	60-70	70	N2-30+	bottom	soil	N2_soil	N2_soil
+515rcbc37	2019	77	Control	N2	Summer	60-70	70	N2-30+	bottom	soil	N2_soil	N2_soil
+515rcbc38	2019	78	Control	N2	Summer	60-70	70	N2-30+	bottom	soil	N2_soil	N2_soil
+515rcbc39	2019	79	Control	N2	Summer	60-70	70	N2-30+	bottom	soil	N2_soil	N2_soil
+515rcbc40	2019	80	Control	N2	Summer	60-70	70	N2-30+	bottom	soil	N2_soil	N2_soil
+515rcbc41	2019	126	Chern_taiga	T1	Summer	1-15	15	T1-top	top	soil	T1_soil	T1_soil
+515rcbc42	2019	127	Chern_taiga	T1	Summer	1-15	15	T1-top	top	soil	T1_soil	T1_soil
+515rcbc43	2019	128	Chern_taiga	T1	Summer	1-15	15	T1-top	top	soil	T1_soil	T1_soil
+515rcbc44	2019	129	Chern_taiga	T1	Summer	1-15	15	T1-top	top	soil	T1_soil	T1_soil
+515rcbc45	2019	130	Chern_taiga	T1	Summer	1-15	15	T1-top	top	soil	T1_soil	T1_soil
+515rcbc46	2019	131	Chern_taiga	T1	Summer	35-55	55	T1-30+	bottom	soil	T1_soil	T1_soil
+515rcbc47	2019	132	Chern_taiga	T1	Summer	35-55	55	T1-30+	bottom	soil	T1_soil	T1_soil
+515rcbc48	2019	133	Chern_taiga	T1	Summer	35-55	55	T1-30+	bottom	soil	T1_soil	T1_soil
+515rcbc49	2019	134	Chern_taiga	T1	Summer	35-55	55	T1-30+	bottom	soil	T1_soil	T1_soil
+515rcbc50	2019	135	Chern_taiga	T1	Summer	35-55	55	T1-30+	bottom	soil	T1_soil	T1_soil
+515rcbc51	2019	136	Chern_taiga	T1	Summer	70-110	110	T1-30+	bottom	soil	T1_soil	T1_soil
+515rcbc52	2019	137	Chern_taiga	T1	Summer	70-110	110	T1-30+	bottom	soil	T1_soil	T1_soil
+515rcbc53	2019	138	Chern_taiga	T1	Summer	70-110	110	T1-30+	bottom	soil	T1_soil	T1_soil
+515rcbc54	2019	139	Chern_taiga	T1	Summer	70-110	110	T1-30+	bottom	soil	T1_soil	T1_soil
+515rcbc55	2019	140	Chern_taiga	T1	Summer	70-110	110	T1-30+	bottom	soil	T1_soil	T1_soil
+515rcbc56	2019	141	Control	T3	Summer	3-17	17	T3-top	top	soil	T3_soil	T3_soil
+515rcbc57	2019	142	Control	T3	Summer	3-17	17	T3-top	top	soil	T3_soil	T3_soil
+515rcbc58	2019	143	Control	T3	Summer	3-17	17	T3-top	top	soil	T3_soil	T3_soil
+515rcbc59	2019	144	Control	T3	Summer	3-17	17	T3-top	top	soil	T3_soil	T3_soil
+515rcbc60	2019	145	Control	T3	Summer	3-17	17	T3-top	top	soil	T3_soil	T3_soil
+515rcbc61	2019	146	Control	T3	Summer	20-30	30	T3-30+	bottom	soil	T3_soil	T3_soil
+515rcbc62	2019	147	Control	T3	Summer	20-30	30	T3-30+	bottom	soil	T3_soil	T3_soil
+515rcbc63	2019	148	Control	T3	Summer	20-30	30	T3-30+	bottom	soil	T3_soil	T3_soil
+515rcbc64	2019	149	Control	T3	Summer	20-30	30	T3-30+	bottom	soil	T3_soil	T3_soil
+515rcbc65	2019	150	Control	T3	Summer	20-30	30	T3-30+	bottom	soil	T3_soil	T3_soil
+515rcbc66	2019	151	Control	T3	Summer	60-70	70	T3-30+	bottom	soil	T3_soil	T3_soil
+515rcbc67	2019	152	Control	T3	Summer	60-70	70	T3-30+	bottom	soil	T3_soil	T3_soil
+515rcbc68	2019	153	Control	T3	Summer	60-70	70	T3-30+	bottom	soil	T3_soil	T3_soil
+515rcbc69	2019	154	Control	T3	Summer	60-70	70	T3-30+	bottom	soil	T3_soil	T3_soil
+515rcbc0	2019	155	Control	T3	Summer	60-70	70	T3-30+	bottom	soil	T3_soil	T3_soil
+Lapidus-221	2019	221	Control	N3	Fall	0-10	10	N3-top	top	soil	N3_soil	N3_soil
+Lapidus-222	2019	222	Control	N3	Fall	0-10	10	N3-top	top	soil	N3_soil	N3_soil
+Lapidus-223	2019	223	Control	N3	Fall	0-10	10	N3-top	top	soil	N3_soil	N3_soil
+Lapidus-224	2019	224	Control	N3	Fall	0-10	10	N3-top	top	soil	N3_soil	N3_soil
+Lapidus-225	2019	225	Control	N3	Fall	0-10	10	N3-top	top	soil	N3_soil	N3_soil
+Lapidus-226	2019	226	Control	N3	Fall	20-30	30	N3-30+	bottom	soil	N3_soil	N3_soil
+Lapidus-227	2019	227	Control	N3	Fall	20-30	30	N3-30+	bottom	soil	N3_soil	N3_soil
+Lapidus-228	2019	228	Control	N3	Fall	20-30	30	N3-30+	bottom	soil	N3_soil	N3_soil
+Lapidus-229	2019	229	Control	N3	Fall	20-30	30	N3-30+	bottom	soil	N3_soil	N3_soil
+Lapidus-230	2019	230	Control	N3	Fall	20-30	30	N3-30+	bottom	soil	N3_soil	N3_soil
+Lapidus-231	2019	231	Control	N3	Fall	40-50	50	N3-30+	bottom	soil	N3_soil	N3_soil
+Lapidus-232	2019	232	Control	N3	Fall	40-50	50	N3-30+	bottom	soil	N3_soil	N3_soil
+Lapidus-233	2019	233	Control	N3	Fall	40-50	50	N3-30+	bottom	soil	N3_soil	N3_soil
+Lapidus-234	2019	234	Control	N3	Fall	40-50	50	N3-30+	bottom	soil	N3_soil	N3_soil
+Lapidus-235	2019	235	Control	N3	Fall	40-50	50	N3-30+	bottom	soil	N3_soil	N3_soil
+2019-171	2019	171	Chern_taiga	N1	Fall	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+2019-172	2019	172	Chern_taiga	N1	Fall	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+2019-173	2019	173	Chern_taiga	N1	Fall	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+2019-174	2019	174	Chern_taiga	N1	Fall	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+2019-175	2019	175	Chern_taiga	N1	Fall	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+2019-206	2019	206	Control	N2	Fall	0-10	10	N2-top	top	soil	N2_soil	N2_soil
+2019-207	2019	207	Control	N2	Fall	0-10	10	N2-top	top	soil	N2_soil	N2_soil
+2019-208	2019	208	Control	N2	Fall	0-10	10	N2-top	top	soil	N2_soil	N2_soil
+2019-209	2019	209	Control	N2	Fall	0-10	10	N2-top	top	soil	N2_soil	N2_soil
+2019-210	2019	210	Control	N2	Fall	0-10	10	N2-top	top	soil	N2_soil	N2_soil
+2019-236	2019	236	Chern_taiga	T1	Fall	0-10	10	T1-top	top	soil	T1_soil	T1_soil
+2019-237	2019	237	Chern_taiga	T1	Fall	0-10	10	T1-top	top	soil	T1_soil	T1_soil
+2019-238	2019	238	Chern_taiga	T1	Fall	0-10	10	T1-top	top	soil	T1_soil	T1_soil
+2019-239	2019	239	Chern_taiga	T1	Fall	0-10	10	T1-top	top	soil	T1_soil	T1_soil
+2019-240	2019	240	Chern_taiga	T1	Fall	0-10	10	T1-top	top	soil	T1_soil	T1_soil
+2019-261	2019	261	Control	T3	Fall	0-10	10	T3-top	top	soil	T3_soil	T3_soil
+2019-262	2019	262	Control	T3	Fall	0-10	10	T3-top	top	soil	T3_soil	T3_soil
+2019-263	2019	263	Control	T3	Fall	0-10	10	T3-top	top	soil	T3_soil	T3_soil
+2019-264	2019	264	Control	T3	Fall	0-10	10	T3-top	top	soil	T3_soil	T3_soil
+2019-265	2019	265	Control	T3	Fall	0-10	10	T3-top	top	soil	T3_soil	T3_soil
+2020-306	2020	306	Chern_taiga	N1	Spring	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+2020-307	2020	307	Chern_taiga	N1	Spring	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+2020-308	2020	308	Chern_taiga	N1	Spring	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+2020-309	2020	309	Chern_taiga	N1	Spring	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+2020-310	2020	310	Chern_taiga	N1	Spring	0-10	10	N1-top	top	soil	N1_soil	N1_soil
+2020-341	2020	341	Control	N2	Spring	0-10	10	N2-top	top	soil	N2_soil	N2_soil
+2020-342	2020	342	Control	N2	Spring	0-10	10	N2-top	top	soil	N2_soil	N2_soil
+2020-343	2020	343	Control	N2	Spring	0-10	10	N2-top	top	soil	N2_soil	N2_soil
+2020-344	2020	344	Control	N2	Spring	0-10	10	N2-top	top	soil	N2_soil	N2_soil
+2020-345	2020	345	Control	N2	Spring	0-10	10	N2-top	top	soil	N2_soil	N2_soil
+2020-371	2020	371	Chern_taiga	T1	Spring	0-10	10	T1-top	top	soil	T1_soil	T1_soil
+2020-372	2020	372	Chern_taiga	T1	Spring	0-10	10	T1-top	top	soil	T1_soil	T1_soil
+2020-373	2020	373	Chern_taiga	T1	Spring	0-10	10	T1-top	top	soil	T1_soil	T1_soil
+2020-374	2020	374	Chern_taiga	T1	Spring	0-10	10	T1-top	top	soil	T1_soil	T1_soil
+2020-375	2020	375	Chern_taiga	T1	Spring	0-10	10	T1-top	top	soil	T1_soil	T1_soil
+2020-411	2020	411	Control	T3	Spring	0-10	10	T3-top	top	soil	T3_soil	T3_soil
+2020-412	2020	412	Control	T3	Spring	0-10	10	T3-top	top	soil	T3_soil	T3_soil
+2020-413	2020	413	Control	T3	Spring	0-10	10	T3-top	top	soil	T3_soil	T3_soil
+2020-414	2020	414	Control	T3	Spring	0-10	10	T3-top	top	soil	T3_soil	T3_soil
+2020-415	2020	415	Control	T3	Spring	0-10	10	T3-top	top	soil	T3_soil	T3_soil
+2019-036	2019	36	Chern_taiga	N1	Summer	0 (roots Aconitum)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2019-037	2019	37	Chern_taiga	N1	Summer	0 (roots Aconitum)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2019-038	2019	38	Chern_taiga	N1	Summer	0 (roots Aconitum)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2019-039	2019	39	Chern_taiga	N1	Summer	0 (roots Aconitum)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2019-040	2019	40	Chern_taiga	N1	Summer	0 (roots Aconitum)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2019-096	2019	96	Control	T1	Summer	0 (roots Aconitum)	10	T1-top	top	rhizosphere	T1_roots_Aconitum	T1_roots_Aconitum
+2019-097	2019	97	Control	T1	Summer	0 (roots Aconitum)	10	T1-top	top	rhizosphere	T1_roots_Aconitum	T1_roots_Aconitum
+2019-098	2019	98	Control	T1	Summer	0 (roots Aconitum)	10	T1-top	top	rhizosphere	T1_roots_Aconitum	T1_roots_Aconitum
+2019-099	2019	99	Control	T1	Summer	0 (roots Aconitum)	10	T1-top	top	rhizosphere	T1_roots_Aconitum	T1_roots_Aconitum
+2019-100	2019	100	Control	T1	Summer	0 (roots Aconitum)	10	T1-top	top	rhizosphere	T1_roots_Aconitum	T1_roots_Aconitum
+2019-111	2019	111	Chern_taiga	T3	Summer	0 (roots Aconitum)	10	T3-top	top	rhizosphere	T3_roots_Aconitum	T3_roots_Aconitum
+2019-112	2019	112	Chern_taiga	T3	Summer	0 (roots Aconitum)	10	T3-top	top	rhizosphere	T3_roots_Aconitum	T3_roots_Aconitum
+2019-113	2019	113	Chern_taiga	T3	Summer	0 (roots Aconitum)	10	T3-top	top	rhizosphere	T3_roots_Aconitum	T3_roots_Aconitum
+2019-114	2019	114	Chern_taiga	T3	Summer	0 (roots Aconitum)	10	T3-top	top	rhizosphere	T3_roots_Aconitum	T3_roots_Aconitum
+2019-115	2019	115	Chern_taiga	T3	Summer	0 (roots Aconitum)	10	T3-top	top	rhizosphere	T3_roots_Aconitum	T3_roots_Aconitum
+2019-156	2019	156	Chern_taiga	N1	Fall	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2019-157	2019	157	Chern_taiga	N1	Fall	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2019-158	2019	158	Chern_taiga	N1	Fall	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2019-159	2019	159	Chern_taiga	N1	Fall	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2019-160	2019	160	Chern_taiga	N1	Fall	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2019-191	2019	191	Control	N2	Fall	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+2019-192	2019	192	Control	N2	Fall	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+2019-193	2019	193	Control	N2	Fall	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+2019-194	2019	194	Control	N2	Fall	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+2019-195	2019	195	Control	N2	Fall	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+2020-276	2020	276	Chern_taiga	N1	Spring	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2020-277	2020	277	Chern_taiga	N1	Spring	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2020-278	2020	278	Chern_taiga	N1	Spring	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2020-279	2020	279	Chern_taiga	N1	Spring	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2020-280	2020	280	Chern_taiga	N1	Spring	0 (roots C.sibirica)	10	N1-top	top	rhizosphere	N1_roots_Crepis	N1_roots_Crepis
+2020-326	2020	326	Control	N2	Spring	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+2020-327	2020	327	Control	N2	Spring	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+2020-328	2020	328	Control	N2	Spring	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+2020-329	2020	329	Control	N2	Spring	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+2020-330	2020	330	Control	N2	Spring	0 (roots C.sibirica)	10	N2-top	top	rhizosphere	N2_roots_Crepis	N2_roots_Crepis
+2020-356	2020	356	Chern_taiga	T1	Spring	0 (roots Aconitum)	10	T1-top	top	rhizosphere	T1_roots_Aconitum	T1_roots_Aconitum
+2020-357	2020	357	Chern_taiga	T1	Spring	0 (roots Aconitum)	10	T1-top	top	rhizosphere	T1_roots_Aconitum	T1_roots_Aconitum
+2020-358	2020	358	Chern_taiga	T1	Spring	0 (roots Aconitum)	10	T1-top	top	rhizosphere	T1_roots_Aconitum	T1_roots_Aconitum
+2020-359	2020	359	Chern_taiga	T1	Spring	0 (roots Aconitum)	10	T1-top	top	rhizosphere	T1_roots_Aconitum	T1_roots_Aconitum
+2020-360	2020	360	Chern_taiga	T1	Spring	0 (roots Aconitum)	10	T1-top	top	rhizosphere	T1_roots_Aconitum	T1_roots_Aconitum
+2020-391	2020	391	Control	T3	Spring	0 (roots Aconitum)	10	T3-top	top	rhizosphere	T3_roots_Aconitum	T3_roots_Aconitum
+2020-392	2020	392	Control	T3	Spring	0 (roots Aconitum)	10	T3-top	top	rhizosphere	T3_roots_Aconitum	T3_roots_Aconitum
+2020-393	2020	393	Control	T3	Spring	0 (roots Aconitum)	10	T3-top	top	rhizosphere	T3_roots_Aconitum	T3_roots_Aconitum
+2020-394	2020	394	Control	T3	Spring	0 (roots Aconitum)	10	T3-top	top	rhizosphere	T3_roots_Aconitum	T3_roots_Aconitum
+2020-395	2020	395	Control	T3	Spring	0 (roots Aconitum)	10	T3-top	top	rhizosphere	T3_roots_Aconitum	T3_roots_Aconitum
+2020-291	2020	291	Chern_taiga	N1	Spring	0 (roots Aconitum)	10	N1-top	top	rhizosphere	N1_roots_Aconitum	N1_roots_Aconitum
+2020-292	2020	292	Chern_taiga	N1	Spring	0 (roots Aconitum)	10	N1-top	top	rhizosphere	N1_roots_Aconitum	N1_roots_Aconitum
+2020-293	2020	293	Chern_taiga	N1	Spring	0 (roots Aconitum)	10	N1-top	top	rhizosphere	N1_roots_Aconitum	N1_roots_Aconitum
+2020-294	2020	294	Chern_taiga	N1	Spring	0 (roots Aconitum)	10	N1-top	top	rhizosphere	N1_roots_Aconitum	N1_roots_Aconitum
+2020-295	2020	295	Chern_taiga	N1	Spring	0 (roots Aconitum)	10	N1-top	top	rhizosphere	N1_roots_Aconitum	N1_roots_Aconitum
