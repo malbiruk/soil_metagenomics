@@ -392,8 +392,14 @@ save_fig(fig, figures_dir / 'observed_species_richness_by_sample_site.html')
 # Alpha diversity was higher in free soil compared to rhizosphere in samples **N1** and **N2**,
 # which are taiga and transitional ecotonic forest, respectively.
 #
-# Alpha diversity between rhizosphere and soil haven't shown statistical
+# Alpha diversity between rhizosphere and free soil haven't shown statistical
 # differences in **T1** (taiga).
 #
-# And in **T3**, which is a comparatively oligotrophic sampling site, alpha diversity of
-# rhizosphere was significantly higher, than in free soil.
+# In **T3**, a comparatively oligotrophic sampling site, alpha diversity in the rhizosphere
+# was significantly higher than in free soil.
+#
+# These results might be explained by the following:
+# In a productive forest, there may be more resources in the bulk soil, leading to either
+# no significant differences or differences in the opposite direction. Additionally,
+# the rhizosphere niche might be occupied by specific microorganisms associated with plants,
+# which could displace others and reduce overall diversity.
