@@ -326,3 +326,18 @@ up_genus_functions
 down_genus_functions = Counter([i for gen in down_genus for i in faprotax_search(gen)
                                 if not '*' in i])
 down_genus_functions
+
+
+# %% md
+# In the **rhizosphere**, there are more taxa involved in:
+#
+# - Nitrogen fixation
+# - Plant pathogenesis
+# - Ligninolysis, cellulolysis, xylanolysis
+# - Methanol oxidation
+#
+# In **free soil**, there are more taxa involved in:
+#
+# - Ammonia and nitrite oxidation
+# - Various sulfur respiration processes
+# - Iron respiration and iron oxidation
