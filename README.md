@@ -53,8 +53,6 @@ pip install -r requirements.txt
 
 ## Conclusions
 
-The beta diversity analysis showed that the microbial composition of the rhizosphere differs significantly from that of free soil.
-
-In oligotrophic biomes, the rhizosphere microbiome is more diverse compared to the free soil microbiome, whereas in nutrient-rich soils, the opposite trend is observed.
-
-In the rhizosphere, taxa involved in methanol oxidation, nitrogen fixation, plant pathogenesis, and the decomposition of plant-specific substances are more common.
+1. The beta diversity analysis showed that the microbial composition of the rhizosphere differs significantly from that of free soil.
+1. In oligotrophic biomes, the rhizosphere microbiome is more diverse compared to the free soil microbiome, whereas in nutrient-rich soils, the opposite trend is observed.
+1. In the rhizosphere, taxa involved in methanol oxidation, nitrogen fixation, plant pathogenesis, and the decomposition of plant-specific substances are more common.
